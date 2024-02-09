@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Green Urban</string>
+
+
+        <string-array name="pump1options">
+            <item>Temperature</item>
+            <item>pH</item>
+        </string-array>
+
+    <string-array name="pump2options">
+        <item>EC</item>
+        <item>TDS</item>
+    </string-array>
+
+
+
+    <string-array name="graterOrLessThanStr">
+        <item>Greater than</item>
+        <item>Less than</item>
+    </string-array>
+
+
+</resources>

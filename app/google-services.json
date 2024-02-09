@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "479434661234",
+    "firebase_url": "https://iot-project-6fecf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-project-6fecf",
+    "storage_bucket": "iot-project-6fecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479434661234:android:c9fbb7090a3d7d427291eb",
+        "android_client_info": {
+          "package_name": "com.example.iot_agri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJjAe6nAx5xizIHf2TBmJrWXnew6SaDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
